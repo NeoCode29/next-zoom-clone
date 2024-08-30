@@ -18,6 +18,9 @@ const config = {
       },
     },
     extend: {
+      backgroundImage : {
+        hero : "url('/images/hero-background.png')"
+      },
       colors: {
         dark : {
           1 : "#1C1F2E",
